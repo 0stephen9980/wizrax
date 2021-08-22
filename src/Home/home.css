@@ -1,0 +1,58 @@
+.btn {
+  width: 20%;
+}
+
+.heading {
+  width: 42%;
+}
+
+.block1 {
+  position: relative;
+  top: 50px;
+}
+
+h1 {
+  color: #fff;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 48px;
+}
+
+p {
+  color: #fff;
+}
+
+.dottedLine {
+  height: 39vh;
+  max-width: 100%;
+}
+
+.imgDot {
+  position: relative;
+  right: 7%;
+  top: 46px;
+}
+
+.body1 {
+  position: relative;
+  bottom: 119px;
+  left: 68px;
+}
+
+.tradeImg {
+  position: relative;
+  bottom: 80vh;
+  left: 115px;
+  float: right;
+}
+
+.tradeImgAlignment {
+  height: 63vh;
+  max-width: 100%;
+}
+
+.appStore {
+  color: rgb(48, 103, 240);
+  height: 20vh;
+  max-width: 100%;
+}
